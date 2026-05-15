@@ -51,12 +51,12 @@ Sales_details_table = {
 #Table Names in the Silver Layer
 
 Table_names={
-    "cust_az12_csv":"Customer demographic info",
-    "cust_info_csv":"Customer information",
-    "loc_a101_csv":"Customer Location",
-    "prd_info_csv":"Product information",
-    "px_cat_g1v2_csv":"Product catagories",
-    "sales_details_csv":"Sales details"
+    "cust_az12_csv":"Customer_demographic_info",
+    "cust_info_csv":"Customer_information",
+    "loc_a101_csv":"Customer_Location",
+    "prd_info_csv":"Product_information",
+    "px_cat_g1v2_csv":"Product_catagories",
+    "sales_details_csv":"Sales_details"
 }
    
 
