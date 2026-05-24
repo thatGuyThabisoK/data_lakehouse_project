@@ -7,7 +7,7 @@ customer_location = {
 
 customer_demographic_info = {
     "CID":"Customer_id",
-    "B DATE":"Birth_Date",
+    "B DATE":"Birth_date",
     "GEN":"Gender"
 }
 
@@ -51,12 +51,12 @@ sales_details = {
 #Table Names in the Silver Layer
 
 table_names={
-    "cust_az12_csv":"Customer_demographic_info",
-    "cust_info_csv":"Customer_information",
-    "loc_a101_csv":"Customer_Location",
-    "prd_info_csv":"Product_information",
-    "px_cat_g1v2_csv":"Product_catagories",
-    "sales_details_csv":"Sales_details"
+    "cust_az12":"customer_demographic_info",
+    "cust_info":"customer_information",
+    "loc_a101":"customer_Location",
+    "prd_info":"product_information",
+    "px_cat_g1v2":"product_catagories",
+    "sales_details":"sales_details"
 }
    
 
