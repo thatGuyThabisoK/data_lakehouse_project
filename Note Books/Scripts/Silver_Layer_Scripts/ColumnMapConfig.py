@@ -1,5 +1,12 @@
 #Mappings for column name changes
 
+product_catagories = {
+    "ID":"Product_id",
+    "CAT":"Category",
+    "SUBCAT":"Subcategory",
+    "MAINTENANCE":"Maintenance"
+}
+
 customer_location = {
     "CID":"Customer_id",
     "CNTRY":"Country"
@@ -28,12 +35,6 @@ product_information = {
     "prd_line":"Product_line",
     "prd_start_dt":"Start_date",
     "prd_end_dt":"End_date"
-}
-
-product_catagories = {
-    "CAT":"Category",
-    "SUBCAT":"Subcategory",
-    "MAINTENANCE":"Maintenance"
 }
 
 sales_details = {
