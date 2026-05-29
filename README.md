@@ -1,2 +1,3 @@
 # data_lakehouse_project
-description to be........
+This is a data pipeline for sales data following the medallion architecture
+<img src="/resources/DataLakehouse_Architecture.png"/>

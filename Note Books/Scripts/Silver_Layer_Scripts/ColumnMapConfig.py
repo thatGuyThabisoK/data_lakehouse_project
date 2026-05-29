@@ -24,7 +24,8 @@ customer_information = {
     "cst_firstname":"First_name",
     "cst_lastname":"Last_name",
     "cst_marital_status":"Marital_status",
-    "cst_gndr":"Gender"
+    "cst_gndr":"Gender",
+    "cst_create_date":"Create_date"
 }
 
 product_information = {
