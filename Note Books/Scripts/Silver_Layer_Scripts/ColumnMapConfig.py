@@ -1,19 +1,19 @@
 #Mappings for column name changes
 
 product_catagories = {
-    "ID":"Product_id",
+    "ID":"Product_key",
     "CAT":"Category",
     "SUBCAT":"Subcategory",
     "MAINTENANCE":"Maintenance"
 }
 
 customer_location = {
-    "CID":"Customer_id",
+    "CID":"Customer_key",
     "CNTRY":"Country"
 }
 
 customer_demographic_info = {
-    "CID":"Customer_id",
+    "CID":"Customer_key",
     "B DATE":"Birth_date",
     "GEN":"Gender"
 }
@@ -25,7 +25,7 @@ customer_information = {
     "cst_lastname":"Last_name",
     "cst_marital_status":"Marital_status",
     "cst_gndr":"Gender",
-    "cst_create_date":"Create_date"
+    "cst_create_date":"Date_created"
 }
 
 product_information = {
@@ -40,7 +40,7 @@ product_information = {
 
 sales_details = {
     "sls_ord_num":"Order_number",
-    "sls_prd_key":"Product_key",
+    "sls_prd_key":"Product_id",
     "sale_cust_id":"Customer_id",
     "sls_order_dt":"Order_date",
     "sls_ship_dt":"Ship_date",
