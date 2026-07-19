@@ -1,7 +1,7 @@
 #Mappings for column name changes
 
 product_catagories = {
-    "ID":"Product_key",
+    "ID":"Category_id",
     "CAT":"Category",
     "SUBCAT":"Subcategory",
     "MAINTENANCE":"Maintenance"
@@ -40,7 +40,7 @@ product_information = {
 
 sales_details = {
     "sls_ord_num":"Order_number",
-    "sls_prd_key":"Product_id",
+    "sls_prd_key":"Product_key",
     "sale_cust_id":"Customer_id",
     "sls_order_dt":"Order_date",
     "sls_ship_dt":"Ship_date",
